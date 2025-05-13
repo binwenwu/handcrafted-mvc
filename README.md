@@ -45,7 +45,7 @@ This project is a simplified MVC framework implementation that demonstrates the 
 ## Documentation
 
 For detailed documentation and implementation details, please visit my blog post:
-[从零开始手搓一个MVC框架](https://www.tankenqi.cn/posts/55)
+[从零开始手搓一个MVC框架](https://www.tankenqi.cn/posts/56)
 
 ## License
 
